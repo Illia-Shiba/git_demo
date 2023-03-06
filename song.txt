@@ -5,6 +5,3 @@ And the fourth line
 
 Add two more lines
 For the next task
-
-This is the last changes 
-That I did here
