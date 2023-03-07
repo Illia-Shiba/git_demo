@@ -8,3 +8,6 @@ For the next task
 
 This is the last changes 
 That I did here
+
+This is the tecting of 
+git chekout functionality
