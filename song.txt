@@ -3,16 +3,5 @@ The second line
 The third line
 And the fourth line
 
-Add two more lines
-For the next task
-
-This is the last changes 
-That I did here
-
-This is the tecting of 
-git chekout functionality
-Add some more strings for 
-Testing
-
-This is the last 
-changes in feature branch
+This is simulation of 
+conflict situation in git
