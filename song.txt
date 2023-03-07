@@ -8,3 +8,6 @@ conflict situation in git
 
 this is the content
 for git conflict situation
+
+this is testing of
+tags functionality
