@@ -5,3 +5,6 @@ And the fourth line
 
 This is simulation of 
 conflict situation in git
+
+this is the content
+for git conflict situation
